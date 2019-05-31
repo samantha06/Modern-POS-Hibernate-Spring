@@ -1,7 +1,28 @@
-# Modern POS - Hibernate
+#Modern POS System with Hibernate and Spring
 
-Assignment project for add hibernate to modern pos system
 
-## License
+#Prerequisites 
 
-This project has been licensed [MIT](License).
+-Intellj idea
+
+-JavaSE(JavaFX)
+
+-SceneBulider
+
+#Built With
+
+-JavaFX
+
+-Java
+
+-Java Persistence API
+
+#Technological Stack
+
+-JAVA
+
+-Hibernate
+
+-Spring
+
+-MySql
